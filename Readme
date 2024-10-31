@@ -10,3 +10,12 @@ Three Fundamental Principles: Superposition, Entanglement and Quantum Interferen
 Gates (Single Qubits, Two Qubits, Multi Qubits and parametric Operations), 
 Error Correction Techniques, and
 List of commercially available processors today. 
+
+
+Types of Quantum Gates
+
+Pauli Gates (X, Y, Z): These are like quantum versions of flipping states, with the X gate being a bit like a NOT gate. Y and Z gates rotate qubits in different ways along the Bloch sphere (which represents a qubit's state).,
+
+Hadamard Gate (H): This H gate puts a qubit into a superposition, where it’s in a mix of 0 and 1 until measured. It’s often the first step in quantum algorithms.
+
+CNOT Gate: Like a conditional operation, it flips a target qubit if a control qubit is in state 1, creating entanglement (a spooky link between qubits) essential for quantum processing.
