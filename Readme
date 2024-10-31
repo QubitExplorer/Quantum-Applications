@@ -1,12 +1,12 @@
 # Quantum Applications
 
-Quantum Computers (QC) will compute things in a different way. Currently, computers use normal bits (O's or 1's) to perform and compute mathematical operations, whereas in QC we use Qubits to perform operations.
+Quantum Computers (QC) will compute things in a different way. Currently, computers use normal bits O's or 1's to perform and compute mathematical operations, whereas in QC we use Qubits to perform operations.
 
 To Understand Quantum computers, we need to understand below basic concepts to get started:
 
 Shor's Algorithm,
 Logical Operations (Bits Vs Qubits),
 Three Fundamental Principles: Superposition, Entanglement and Quantum Interference,
-Gates (Single Qubits, Two Qubits, Multi Qubits and parametric Operations), and
-Error Correction Techniques.
-List of commercially available processors
+Gates (Single Qubits, Two Qubits, Multi Qubits and parametric Operations), 
+Error Correction Techniques, and
+List of commercially available processors today. 
