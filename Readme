@@ -20,4 +20,4 @@ Hadamard Gate (H): This H gate puts a qubit into a superposition, where it’s i
 
 CNOT Gate: Like a conditional operation, it flips a target qubit if a control qubit is in state 1, creating entanglement (a spooky link between qubits) essential for quantum processing.
 
-While it is too early for practical commercializations and solving complex problems like drug discovery etc., but it doesn't not prevent us to develop a sample circuits in the compiler.
+While it is too early for practical commercializations and solving complex problems like drug discovery etc., but it doesn't prevent us to develop sample circuits using compilers.
